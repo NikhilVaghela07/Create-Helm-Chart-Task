@@ -1,0 +1,4 @@
+replicaCount: 1
+image:
+  tag: "1.27"
+customMessage: "This is the DEMO application, from value-demo.yaml file"
